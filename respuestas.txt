@@ -11,7 +11,9 @@ y exclusiva herramienta que puede, literalmente, cambiar la forma en la que desa
 2.- ¿Qu´e es una reorganizaci´on (rebase)?
 
 es una forma de integrar cambios de una rama a otra, se puede hacer de dos formas: la fusión (merge) y la reorganización (rebase).
+ 
 
 3.- ¿Cu´al es la ventaja de reorganizar (rebase)?
 
 que en el rebase se crea una confirmación prima y todos los cambios de la confirmacion anterior pasa a la siguiente y a la prima de la siguiente. 
+ 
